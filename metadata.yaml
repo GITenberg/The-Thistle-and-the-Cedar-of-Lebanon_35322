@@ -1,0 +1,30 @@
+_repo: The-Thistle-and-the-Cedar-of-Lebanon_35322
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Risk Allah, Habeeb
+    aliases:
+    - Effendi, Habeeb Risk Allah
+    - Allah, Habeeb Risk
+    gutenberg_agent_id: '37598'
+    url: http://www.gutenberg.org/2009/agents/37598
+description: ''
+gutenberg_issued: '2011-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35322'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- Description and travel'
+- !lcsh 'Syria -- Description and travel'
+- !lcsh 'Risk Allah, Habeeb -- Travel -- Europe'
+- !lcc 'DS'
+- !lcsh 'Risk Allah, Habeeb -- Travel -- Syria'
+title: The Thistle and the Cedar of Lebanon
+url: http://www.gutenberg.org/ebooks/35322
